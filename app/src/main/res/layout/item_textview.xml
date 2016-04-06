@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="first item"
+    android:textSize="20sp"
+    android:textColor="#c9000000"
+    android:layout_margin="@dimen/activity_horizontal_margin"
+    android:gravity="center|left"
+    android:minHeight="?android:attr/listPreferredItemHeight"
+    android:id="@+id/id_item_textview">
+
+</TextView>
